@@ -27,7 +27,7 @@ Develop targeted strategies to increase sales and profitability.
 
 ## 🛠️ Tools Used
 - **Analytical & Visual:**  Python\
-  <img width="96" height="96" src="https://github.com/amanat-mahmud/Food-Delivery-Analysis/blob/main/icons8-python-96.png" alt="microsoft-excel-2019--v1"/>
+  <img width="96" height="96" src="https://github.com/amanatMahmud123/Food-Delivery-Analysis/blob/main/icons8-python-96.png" alt="microsoft-excel-2019--v1"/>
 - **Presentation:** Microsoft Power Point\
   <img width="96" height="96" src="https://img.icons8.com/fluency/96/microsoft-powerpoint-2019.png" alt="microsoft-powerpoint-2019"/>
 
@@ -57,10 +57,10 @@ Develop targeted strategies to increase sales and profitability.
 - Enhance customer loyalty programs with personalized, tiered rewards.
 
 ## 📌 Project Presentation
-[![Food Delivery Analysis](https://github.com/amanat-mahmud/Food-Delivery-Analysis/blob/main/cover.png)](https://youtu.be/c6gACf9Feqc)
+[![Food Delivery Analysis](https://github.com/amanatMahmud123/Food-Delivery-Analysis/blob/main/cover.png)](https://youtu.be/c6gACf9Feqc)
 
 ### Slides
-The detailed presentation slides for this project can be found [here](https://github.com/amanat-mahmud/Food-Delivery-Analysis/blob/main/slide.pdf)
+The detailed presentation slides for this project can be found [here](https://github.com/amanatMahmud123/Food-Delivery-Analysis/blob/main/slide.pdf)
 
 ## 🧠 Project Learnings
 1. Data exploration.
